@@ -1,0 +1,176 @@
+{
+  "tables": [
+    {
+      "id": "W9oHyXBSlRm5toFL02a_e",
+      "name": "dict_type",
+      "x": 0,
+      "y": 0,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": true,
+          "comment": "",
+          "id": "z7nXGZaWGV4iHPlTbObcx"
+        },
+        {
+          "id": "LO-TG8lfDCcPRzzmVI3f5",
+          "name": "dict_code",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": true,
+          "notNull": true,
+          "increment": false,
+          "comment": "字典代码",
+          "size": 64
+        },
+        {
+          "id": "XRlfyfcAiuNa4WcwQ_UGJ",
+          "name": "dict_name",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "字典名称",
+          "size": 255
+        },
+        {
+          "id": "tFsVNu9kUlxRzZPt_O52B",
+          "name": "status",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "字典状态",
+          "size": "",
+          "values": []
+        },
+        {
+          "id": "-o_vhPQUZr8YYsgMO1vZy",
+          "name": "remark",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "注释",
+          "size": 255
+        }
+      ],
+      "comment": "字典类型表",
+      "indices": [],
+      "color": "#175e7a"
+    },
+    {
+      "id": "ub4Z9YYDWUMc51JP6w9Et",
+      "name": "dict_item",
+      "x": -284,
+      "y": 4,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": true,
+          "comment": "",
+          "id": "TI-vO3hmHlXkpdSKwqI9H"
+        },
+        {
+          "id": "6AkzWXYvimcFVDuMDEyAl",
+          "name": "dict_code",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": true,
+          "notNull": true,
+          "increment": false,
+          "comment": "字典代码",
+          "size": 64
+        },
+        {
+          "id": "nbRHBGFbwaKQCIAKgxT1k",
+          "name": "item_code",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": true,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": 255
+        },
+        {
+          "id": "BUv1bNsb5m8Xs7xjgX_xB",
+          "name": "item_name",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": 255
+        },
+        {
+          "id": "fo-j92kAGOpuejol7CFRe",
+          "name": "sort_order",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "",
+          "size": 255
+        },
+        {
+          "id": "Ik4KGBHFbfo1wwbludKaj",
+          "name": "status",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": "",
+          "values": []
+        }
+      ],
+      "comment": "字典项表",
+      "indices": [],
+      "color": "#175e7a"
+    }
+  ],
+  "relationships": [],
+  "notes": [],
+  "subjectAreas": [],
+  "database": "mysql",
+  "title": "Untitled Diagram"
+}
