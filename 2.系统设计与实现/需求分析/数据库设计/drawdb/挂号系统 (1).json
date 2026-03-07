@@ -1,0 +1,88 @@
+{
+  "tables": [
+    {
+      "id": "5-9_1whTi3HJZWS3266_c",
+      "name": "department",
+      "x": 0,
+      "y": 0,
+      "locked": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": true,
+          "unique": true,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "id": "dSPqcQp08jpka9rl_R2aZ"
+        },
+        {
+          "id": "naMLZZCglIPkbhzYhTio5",
+          "name": "name",
+          "type": "VARCHAR",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "科室名称",
+          "size": 128
+        },
+        {
+          "id": "tJmKBEb6eWVNeKtx6NJl3",
+          "name": "parent_id",
+          "type": "INTEGER",
+          "default": "0",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "",
+          "size": "",
+          "values": []
+        },
+        {
+          "id": "EZjft6uGn6zEQnP5_cPK0",
+          "name": "sort",
+          "type": "INTEGER",
+          "default": "",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": false,
+          "increment": false,
+          "comment": "排序",
+          "size": "",
+          "values": []
+        },
+        {
+          "id": "Snx8aRZFRBMLKy52JROIy",
+          "name": "create_time",
+          "type": "DATETIME",
+          "default": "CURRENT_TIMESTAMP",
+          "check": "",
+          "primary": false,
+          "unique": false,
+          "notNull": true,
+          "increment": false,
+          "comment": "创建时间",
+          "size": "",
+          "values": []
+        }
+      ],
+      "comment": "",
+      "indices": [],
+      "color": "#175e7a"
+    }
+  ],
+  "relationships": [],
+  "notes": [],
+  "subjectAreas": [],
+  "database": "mysql",
+  "title": "Untitled Diagram"
+}
