@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS `patient_exp` (
+	`patient_id` INTEGER NOT NULL AUTO_INCREMENT UNIQUE,
+	`belonging_uid` INTEGER NOT NULL UNIQUE COMMENT '所属账号',
+	`real_name` VARCHAR(32) NOT NULL COMMENT '真实姓名',
+	`id_card` VARCHAR(32) NOT NULL COMMENT '身份证号',
+	`gender` VARCHAR(1) NOT NULL COMMENT '性别',
+	`birthday` DATE COMMENT '出生日期',
+	`address` VARCHAR(128) COMMENT '地址',
+	`nationality` VARCHAR(32) COMMENT '民族',
+	`occupation` VARCHAR(32) COMMENT '职业',
+	`marital_status` INTEGER COMMENT '婚姻状况',
+	`emergency_phone` VARCHAR(32) COMMENT '紧急联系人',
+	`emergency_contact` VARCHAR(32) COMMENT '紧急联系电话',
+	`insurance_number` VARCHAR(255) COMMENT '医疗保险号',
+	`medical_history` TEXT(65535) COMMENT '医疗史',
+	`allergies` TEXT(65535) COMMENT '过敏信息',
+	`relation` VARCHAR(32) NOT NULL DEFAULT 'self' COMMENT '与账号关系',
+	`create_time` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+	`update_time` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '更新时间',
+	PRIMARY KEY(`patient_id`)
+) COMMENT='患者扩展信息';
