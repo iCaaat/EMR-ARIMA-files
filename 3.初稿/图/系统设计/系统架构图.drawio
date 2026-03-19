@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="第 1 页" id="g22bMqAF25xnwp5XbPdl">
+    <mxGraphModel dx="1213" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-3" edge="1" parent="1" source="1xfxpk4yp7Ulw9p8Dr01-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#3399FF);" target="1xfxpk4yp7Ulw9p8Dr01-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#3399FF);" value="用户操作" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-6" edge="1" parent="1" source="1xfxpk4yp7Ulw9p8Dr01-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1xfxpk4yp7Ulw9p8Dr01-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-7" connectable="0" parent="1xfxpk4yp7Ulw9p8Dr01-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP请求" vertex="1">
+          <mxGeometry relative="1" x="-0.0154" y="2" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#33FF33);" value="前端页面&lt;div&gt;Vue.js&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1xfxpk4yp7Ulw9p8Dr01-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

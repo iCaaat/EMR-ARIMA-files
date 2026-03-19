@@ -1,0 +1,150 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="第 1 页" id="4crM7XUEzwpu9AE52Q3E">
+    <mxGraphModel dx="1213" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-3" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="FMQ7e_Xb8woGWy-O2Bmv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-14" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="FMQ7e_Xb8woGWy-O2Bmv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-15" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="FMQ7e_Xb8woGWy-O2Bmv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-16" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="FMQ7e_Xb8woGWy-O2Bmv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#3399FF);strokeColor=light-dark(#000000,#3399FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-21" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" target="FMQ7e_Xb8woGWy-O2Bmv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-22" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" target="FMQ7e_Xb8woGWy-O2Bmv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-23" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" target="FMQ7e_Xb8woGWy-O2Bmv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-24" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" target="FMQ7e_Xb8woGWy-O2Bmv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-25" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;" value="管理员" vertex="1">
+          <mxGeometry relative="1" x="0.2095" as="geometry">
+            <mxPoint x="25" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontColor=#ffffff;strokeColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;用户管理模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-34" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-35" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-38" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="管理员" vertex="1">
+          <mxGeometry relative="1" x="0.5333" y="-3" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-36" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-39" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="用户、医生" vertex="1">
+          <mxGeometry relative="1" x="0.7" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#CCE5FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;挂号管理模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-42" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-47" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="管理员" vertex="1">
+          <mxGeometry relative="1" x="0.6947" y="-5" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-43" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-46" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="管理员" vertex="1">
+          <mxGeometry relative="1" x="0.5" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-45" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#CCE5FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;医生排班模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-52" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-55" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="医生" vertex="1">
+          <mxGeometry relative="1" x="0.6471" y="-1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-53" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-54" edge="1" parent="1" source="FMQ7e_Xb8woGWy-O2Bmv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMQ7e_Xb8woGWy-O2Bmv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-59" connectable="0" parent="FMQ7e_Xb8woGWy-O2Bmv-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="医生" vertex="1">
+          <mxGeometry relative="1" x="0.7059" y="-3" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#CCE5FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;电子病历模块&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="用户注册" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="用户登录" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="就诊人管理" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="医生用户管理" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="预约挂号" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="号源管理" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="挂号记录查询" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="排班录入" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="号源生成" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="排班查询" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="病历录入" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="病历查询" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="FMQ7e_Xb8woGWy-O2Bmv-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1ba1e2, #6db2ff);fontColor=#ffffff;strokeColor=#006EAF;" value="病历管理" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="1320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
